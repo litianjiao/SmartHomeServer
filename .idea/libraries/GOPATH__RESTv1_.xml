@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;RESTv1&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/GO/GOPATH/src/qiniupkg.com" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/RESTv1" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/opms" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/github.com" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/golang.org" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/m.clowire" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/test1" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/www.github.com" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/gopkg.in" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/apache" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/google.golang.org" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/aarzilli" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/andybalholm" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/sourcegraph.com" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/alecthomas" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$USER_HOME$/GO/GOPATH/src/qiniupkg.com" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/RESTv1" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/opms" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/github.com" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/golang.org" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/m.clowire" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/test1" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/www.github.com" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/gopkg.in" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/apache" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/google.golang.org" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/aarzilli" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/andybalholm" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/sourcegraph.com" />
+      <root url="file://$USER_HOME$/GO/GOPATH/src/alecthomas" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
