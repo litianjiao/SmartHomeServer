@@ -1,0 +1,13 @@
+package main
+
+func main() {
+	var file string = `config.json`
+	if len(os.Args) > 1 {
+		file = os.Args[1]
+	}
+
+	service := gateway.Loader(file)
+	if nil == service {
+		println("loader service failed")
+		os.Exit(-1)
+	}
